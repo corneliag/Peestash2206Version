@@ -98,6 +98,7 @@ public class AddEventFragment extends Fragment implements AdapterView.OnItemSele
         args.putString(ARG_PARAM2, param2);
         fragment.setArguments(args);
         return fragment;
+        /*test*/
     }
 
     public AddEventFragment() {
